@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Sahar
 - I am a third year computer science student in Ben Gurion unevirsity in Israel.
-- 📫 How to reach me ...
-
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=saharc576&layout=compact)
 
 Let's Talk:
